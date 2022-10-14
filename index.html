@@ -7,12 +7,12 @@
     <meta name="description" content="My resume">
     <title>Resume - Fábio Chiquezi</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://img.icons8.com/pastel-glyph/64/000000/code--v2.png" type="image/png">
 </head>
 <body>
     <div class="container">
         <h1>Fábio Chiquezi Pereira</h1>
-    
-        <section>
+        <section class="personal">
             <div class="block">
                 <ul>
                     <li>fabiochiquezi2@gmail.com</li>
@@ -70,26 +70,26 @@
                         <span> /fabiochiquezi</span>
                     </li>
                 </ul>
-                <ul>
-                    <b>Front-end Developer</b>
-                    <div>
-                        <li>Javascript</li>
-                        <li>Typescript</li>
-                        <li>React</li>
-                    </div>
-                    <div>
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>Figma</li>
+                <ul class="front-skils">
+                    <b>Front-end Developer:</b>
+                    <div class="wrap">
+                        <div>
+                            <li>- Javascript</li>
+                            <li>- Typescript</li>
+                            <li>- React</li>
+                        </div>
+                        <div>
+                            <li>- HTML</li>
+                            <li>- CSS</li>
+                            <li>- Figma</li>
+                        </div>
                     </div>
                 </ul>
             </div>
         </section>
-    
         <hr>
-    
-        <section>
-            <h1>Projects</h1>
+        <section class="projects">
+            <h2>Projects</h2>
             <ul>
                 <li>
                     <p>github - /fabiochiquezi/startlist-opensource</p>
@@ -106,7 +106,6 @@
                         <span>My web portfolio / open-source project</span>
                     </p>
                 </li>
-
                 <li>
                     <p>github - /fabiochiquezi/startlist-opensource</p>
                     <p>
@@ -122,7 +121,6 @@
                         <span>My resume online / open-source project</span>
                     </p>
                 </li>
-
                 <li>
                     <p>github - /fabiochiquezi/startlist-opensource</p>
                     <p>
@@ -138,7 +136,6 @@
                         <span>Open-source web software (currenting in development)</span>
                     </p>
                 </li>
-
                 <li>
                     <p>github - /fabiochiquezi/startlist-opensource</p>
                     <p>
@@ -154,7 +151,6 @@
                         <span>Open-source web project</span>
                     </p>
                 </li>
-
                 <li>
                     <p>github - /fabiochiquezi/startlist-opensource</p>
                     <p>
@@ -170,7 +166,6 @@
                         <span>Open-source web project</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -189,7 +184,6 @@
                         <span>my first big project w/ a team and one of most important im my career.</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -204,7 +198,6 @@
                         <span>freelance project to the company YouAndUs (youandus.com.br)</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -219,7 +212,6 @@
                         <span>freelance project to the company YouAndUs (youandus.com.br)</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -234,7 +226,6 @@
                         <span>freelance project straight foward to the client.</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -249,7 +240,6 @@
                         <span>freelance project straight foward to the client.</span>
                     </p>
                 </li>
-
                 <li>
                     <p>
                         <b>Name:</b>
@@ -280,48 +270,46 @@
                 </li>
             </ul>
         </section>
-    
-        <section>
-            <h1>Education</h1>
-            <p class="description">
-                Honestly, most of my studies has been by my own through YouTube and my personal projects. Although I’ve got a lot of help from companies that accept me as </p>
-            
-            <div>
-                <div>
-                    <h2>Companies</h2>
-                    <div>
-                        <h3>
+        <hr>
+        <section class="education">
+            <h2>Education</h2>
+            <p>
+                Honestly, most of my studies has been by my own through YouTube and my personal projects. Although I’ve got a lot of help from companies that accept me as 
+            </p>
+            <div class="education-wrap">
+                <div class="companies">
+                    <h3>Companies</h3>
+                    <div class="box">
+                        <h4>
                             <b>Freelancer</b>
                             <span>(2017-2021)</span>
-                        </h3>
+                        </h4>
                         <p>
                             I’ve worked as a freelancer for a long time, I was building mostly systems, websites, themes wordpress, and giving manutantion.
                         </p>
                     </div>
-                    <div>
-                        <h3>
+                    <div class="box">
+                        <h4>
                             <b>YouAndUs</b>
                             <span>(2014-2016)</span>
-                        </h3>
+                        </h4>
                         <p>
                             An Agency of publicity that I made a partnership as working as their personal freelancer
                         </p>
                     </div>
-                    <div>
-                        <h3>
+                    <div class="box">
+                        <h4>
                             <b>StarCorp</b>
                             <span>(2012-2014)</span>
-                        </h3>
+                        </h4>
                         <p>
                             First company that I worked with development. It was an important place for me since they were the first to give me an oportunity.
                         </p>
                     </div>
                 </div>
-        
-                <div>
-                    <h2>Schools</h2>
-
-                    <div>
+                <div class="schools">
+                    <h3>Schools</h3>
+                    <div class="box">
                         <p>
                             <b>School:</b>
                             FreeCodeCamp (Development)
@@ -335,23 +323,7 @@
                             Most of my studies has been through their content, and I’m really grateful for all their work.
                         </p>
                     </div>
-
-                    <div>
-                        <p>
-                            <b>School:</b>
-                            FreeCodeCamp (Development)
-                        </p>
-                        <p>
-                            <b>Link:</b>
-                            youtube.com/c/Freecodecamp
-                        </p>
-                        <p>
-                            <b>Description:</b>
-                            Most of my studies has been through their content, and I’m really grateful for all their work.
-                        </p>
-                    </div>
-
-                    <div>
+                    <div class="box">
                         <p>
                             <b>School:</b>
                             Alura (development)
@@ -365,8 +337,7 @@
                             My first school of Front-End Development in my country
                         </p>
                     </div>
-
-                    <div>
+                    <div class="box">
                         <p>
                             <b>School:</b>
                             E.E. Carlos Lencastre (HighSchool)
