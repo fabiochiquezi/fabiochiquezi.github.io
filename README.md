@@ -4,17 +4,12 @@
 </p>
 <br />
 
-<div align="center">
-
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffabiochiquezi.github.io%2F)](https://fabiochiquezi.github.io)
-
-</div>
-
----
-
 ## 📄 Resume Online
 
 This is a template HTML-CSS of a resume online for Devs.
+
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Ffabiochiquezi.github.io%2F)](https://fabiochiquezi.github.io)
+
 <br />
 
 ## 🚀 How to run
