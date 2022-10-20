@@ -17,7 +17,6 @@ This is a template HTML-CSS of a resume online for Devs.
 3. Open the HTML and test
 
 <br />
-<br />
 
 _Ps: Hope this works for you as it worked for me._ 😊😊😊
 
