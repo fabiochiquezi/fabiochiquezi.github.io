@@ -1,4 +1,4 @@
-## Resume Online
+# Resume Online
 
 This is a template HTML-CSS of a resume online for Devs. 📄🚀
 &nbsp;
