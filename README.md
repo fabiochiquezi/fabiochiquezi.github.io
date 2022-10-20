@@ -1,16 +1,20 @@
-# My Resume Online
+## Resume Online
 
-My resume online as a simple HTML/CSS template.
-I'm putting my website as a template for anyone in the community who wants to use it.
-Hope this works for you as it worked for me.
+This is a template HTML-CSS of a resume online for Devs. 📄🚀
 &nbsp;
 
-## Preview
+## How to run
 
-fabiochiquezi.github.io
-&nbsp;
-
-## Install
-
-1. clone repo
+1. Clone repo
 2. Change the HTML and CSS as you need
+3. Open the HTML and test
+   &nbsp;
+
+_Ps: Hope this works for you as it worked for me._ 😊😊😊
+
+<img 
+    src="design/design.jpg?raw=true" 
+    alt="screenshot" 
+    title="screenshot" 
+    width="500"
+/>
