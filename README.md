@@ -1,9 +1,9 @@
-# Resume Online
+# 📄 Resume Online
 
-This is a template HTML-CSS of a resume online for Devs. 📄🚀
+This is a template HTML-CSS of a resume online for Devs. 🚀
 <br />
 
-## How to run
+## 🚀 How to run
 
 1. Clone repo
 2. Change the HTML and CSS as you need
