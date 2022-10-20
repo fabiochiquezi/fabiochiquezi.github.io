@@ -19,11 +19,10 @@ This is a template HTML-CSS of a resume online for Devs.
 
 _Ps: Hope this works for you as it worked for me._ 😊😊😊
 
-<div align="center">
+<sub>Example:</sub>
 <img 
     src="design/design.jpg?raw=true" 
     alt="screenshot" 
     title="screenshot" 
     width="500"
 />
-</div>
