@@ -1,14 +1,14 @@
 # Resume Online
 
 This is a template HTML-CSS of a resume online for Devs. 📄🚀
-&nbsp;
+<br />
 
 ## How to run
 
 1. Clone repo
 2. Change the HTML and CSS as you need
 3. Open the HTML and test
-   &nbsp;
+   <br />
 
 _Ps: Hope this works for you as it worked for me._ 😊😊😊
 
